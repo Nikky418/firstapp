@@ -1,0 +1,15 @@
+main{
+    background-color: beige;
+    height:400px;
+    width:75%;
+    border-radius: 5%;
+}
+h1{
+    background-color: black;
+    height:70px;
+}
+section{
+    width:75%;
+    border:dashed;
+    border-radius: 3%;
+}
